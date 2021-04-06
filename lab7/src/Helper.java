@@ -19,7 +19,6 @@ public class Helper {
             while(lineScaner.hasNext()){
                 var word = lineScaner.next();
                 if (!map.containsKey(word))
-
                 {
                     map.put(word, 1);
                     continue;
