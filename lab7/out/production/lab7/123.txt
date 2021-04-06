@@ -1,0 +1,3 @@
+check check1 check1
+test check1 test check1
+word sssss test
